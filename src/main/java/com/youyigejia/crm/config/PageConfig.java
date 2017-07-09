@@ -6,5 +6,6 @@ package com.youyigejia.crm.config;
 public interface PageConfig {
     String Page = "page";
 
+
     Integer Rows = 10;
 }
